@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>productostb</name>
+	<displayName><![CDATA[productostb]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Importación de productos Tomas Bodero]]></description>
+	<author><![CDATA[Francisco Javier Vargas Estrada]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
